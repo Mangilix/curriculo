@@ -59,7 +59,7 @@ $(document).ready(function () {
 
 
 
-}, 3000);
+}, 2000);
 
     $('.headerList').siblings('.list').hide();
 
